@@ -1,0 +1,87 @@
+.fon {
+    height: 100vh;
+    background: url('background.jpg');
+    background-size: 100%;
+    display: flex;
+}
+
+h2{
+    color: white;
+    text-align: left;
+    margin-top: 10px;
+
+}
+
+.nav-link {
+    color: white;
+    margin-top: 10px;
+   
+}
+
+.ogl{
+    margin-top: 15%;
+    color: white;
+    font-weight: 700;
+    justify-content: center;
+}
+
+hr{
+    margin-top: 20px;
+    align: center;
+    width: 100px;
+}
+
+h3{
+    text-align: center;
+    margin-top: 15px;
+}
+
+.leter{
+    font-weight: 700;
+}
+
+.ifa{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background: rgb(240, 240, 12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin-right: 10px;
+
+}
+
+.fa{
+    color:yellow;
+    margin-top: 10px;
+}
+
+.fa-exclamation-triangle{
+    color: white;
+    
+}
+
+.fa-video-camera{
+    color: white;
+}
+
+.fa-google-wallet{
+    color: white;
+
+}
+
+.fa-building-o{
+    color: white;
+}
+
+
+.fa-home{
+    color: white;
+}
+
+.fa-pencil-square-o{
+    color: white;
+}
+
